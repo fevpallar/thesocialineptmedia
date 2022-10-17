@@ -16,7 +16,5 @@ CRU-D stands for "CReate, Update *minus* the Delete" operations. It is a quick-m
 ## [IN PROGRESS...]
 
 
-*<sub> So you want to build some events based streaming apps in very simple, easy ways yet covering the fundamental functionals? Start to build your own IS?*
-  
-
-*You don't need to be a Math-algo champion or coming from minimum 5 years IT industry background to do that. That shouldn't be your concern. That judment is the duty of hir... okay, stop it. Dont make start. Well.. Now, here all you need is basic Springboot knowledge. The rest will be explained and your own creativity needed to futher make your own. We gonna develop quick-mini social media site that covers basic thing such as adding friend, post, chat, ....</sub>*
+*<sub> So you want to build some events based streaming apps in very simple, easy ways yet covering the fundamental functionals? Start to build your own IS?</sub>*
+*<sub>You don't need to be a Math-algo champion or coming from minimum 5 years IT industry background to do that. It's only their concern, those judgmental hir... okay, stop it... Okay, Now, here all you need is basic Springboot knowledge. The rest will be explained and your own creativity needed to futher make your own. We gonna develop quick-mini social media site that covers basic thing such as adding friend, post, chat, ....</sub>*
