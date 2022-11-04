@@ -16,5 +16,5 @@ CRU-D stands for "CReate, Update *minus* the Delete" operations. It is a quick-m
 ## [IN PROGRESS...]
 
 
-*<sub> So you want to build some events based streaming apps in very simple, easy ways yet covering the fundamental functionals? Start to build your own IS?</sub>*
+*<sub> So you want to build some events based streaming apps in very simple, easy ways yet covering the fundamental functionals? Start to build your own IS?
 We gonna try to develop quick-mini social media site that covers basic thing such as adding friend, post, chat, ....</sub>*
